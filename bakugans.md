@@ -1,3 +1,4 @@
+### Bakugans
 Bakugans are transforming spheres.
 Once they hit a magnetic card the tiny sphere transforms into a small creature, like a dragon or griffin.
 The way you play he game is by powering up your bakugans with ability cards, which raise the power points of your bakugan.

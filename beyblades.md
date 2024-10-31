@@ -1,3 +1,4 @@
+## Beyblades
 Beyblades are spinning tops, usually based off of mythical creatures, like Pegasus and Phoenixes.
 
 The way you play Beyblade is by you and an opponent using the launcher to spin up the beyblades and the toys clash against each other until one beyblade is left spinning. 
